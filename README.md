@@ -1,6 +1,6 @@
-Source, hex and elf file for my personal College(University) SCADA simulation project.\n
-Software used for simulation Proteus 8.\n
+Source, hex and elf file for my personal College(University) SCADA simulation project.
+Software used for simulation Proteus 8.
 
-Code handles inputs and outputs, control of relays and voltage reading.\n
+Code handles inputs and outputs, control of relays and voltage reading.
 
-Graded 9/10.\n
+Graded 9/10.
